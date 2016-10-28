@@ -82,7 +82,7 @@ It comes pre-configured with the following bundles:
 
   * [**Symfony**][5] - API Platform is built on top of the full-stack
     Symfony framework
-  * [**API Platform's API bundle**][9] - Creates powerful Hypermedia APIs supporting JSON-LD
+  * **API Platform's API bundle** - Creates powerful Hypermedia APIs supporting JSON-LD
     and Hydra
   * [**DunglasActionBundle**][36] - Automatically register actions, commands and event
    subscribers as a service
